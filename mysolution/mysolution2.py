@@ -43,11 +43,13 @@ def main():
     1. Rozkład stopni:
        - Erdős-Rényi (ER): Rozkład przypomina krzywą dzwonową. 
          Większość węzłów ma podobną liczbę połączeń (średnią).
+         Nie jest to sieć bezskalowa.
        - Barabási-Albert (BA): Rozkład potęgowy (Power Law). 
          Istnieje wiele węzłów o bardzo małym stopniu i niewielka ilość potężnych wieżchołków o ogromnej liczbie połączeń (hubów). 
          Struktura tego grafu przypomina drzewo, które ma wiele liści (węzłów o niskim stopniu).
-         Taka struktura grafu bardziej odnosi się do rzeczywistości, bo przypomina na przykład strukturę internetu czy sieci bilogicznych,
-         gdzie też występują huby.
+         Taka struktura grafu bardziej odnosi się do rzeczywistości. 
+         Przypomina strukturę internetu, sieci społecznych czy sieci bilogicznych, gdzie też występują huby.
+         Jest to sieć bezskalowa.
          
     2. Mechanizm tworzenia:
        - ER: Połączenia są całkowicie losowe i niezależne.

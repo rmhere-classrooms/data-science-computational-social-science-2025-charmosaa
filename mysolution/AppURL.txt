@@ -1,3 +1,7 @@
-https://rmhere.shinyapps.io/aclevel/
-imie nazwisko
-numer indeksu
+https://rmhere.shinyapps.io/aclevel/ (zadania 3 nie zrobiłam)
+Martyna Łopianiak
+272682
+
+
+Poprzednie zadania zrobione w Python, do uruchomienia trzeba utworzyć venv i zainstalować pliki z requirements.txt.
+Następnie uruchomić zadanie (np. python mysolution1.py)
